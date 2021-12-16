@@ -1,0 +1,23 @@
+.container{
+    height: auto;
+    width: 60%;
+    background-color: #5fbedb;
+    margin-bottom: 30px;
+}
+h1{
+    padding-top: 20px;
+    color:rgb(238, 255, 0);
+}
+.showcase {
+    width: 50%;
+    height: 50%;
+    padding-bottom: 20px;
+}
+
+.catsImgDiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.showcase:hover{
+    width:60%;
+    }
